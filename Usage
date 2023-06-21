@@ -1,0 +1,9 @@
+
+# Compile the smart contract
+truffle compile
+
+# Deploy the smart contract to a local blockchain
+truffle migrate --reset
+
+# Run tests
+truffle test
